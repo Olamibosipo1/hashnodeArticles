@@ -10,7 +10,7 @@ tags: dataanalytics, microsoftexcel
 
 Hi Hashnoders,  
 I'd like to share my experience on my first project in data analytics here.  
-The dashboard was created using Microsoft excel and the dataset (which is one of the historical sales of a supermarket company which was recorded in 3 different branches for 3 months data) was provided by my tutor @[Jacob Ajala](@DataAnalyst)
+The dashboard was created using Microsoft excel and the dataset (which is one of the historical sales of a supermarket company that was recorded in 3 different branches for 3 months data) was provided by my tutor @[Jacob Ajala](@DataAnalyst)
 
 Below is what the raw data looks like :
 
@@ -44,7 +44,7 @@ First, let me walk you through the data cleansing based on the business requirem
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694566171058/d9bfe976-c044-422f-8115-470f62929e2d.png align="center")
         
-        Here are insights and recommendations from the above analysis.
+        Here are insights from the above analysis.
         
         1. The supermarket has an overall customer shopping experience rating of 7/10.
             
@@ -63,7 +63,7 @@ First, let me walk you through the data cleansing based on the business requirem
         8. Of the 3 months analyzed January recorded the highest sales with a gross income of $ 5,537.71.
             
         
-        Recommendations.
+        In conclusion, these are my recommendations.
         
         The Supermarket has an above average rating of 7 out of 10 however, the below points should be taken into consideration to increase sales, beat the competition and exceed their customers' expectation
         
