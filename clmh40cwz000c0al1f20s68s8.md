@@ -10,7 +10,7 @@ tags: dataanalytics, microsoftexcel
 
 Hi Hashnoders,  
 I'd like to share my experience on my first project in data analytics here.  
-The dashboard was created using Microsoft excel and the dataset (which is one of the historical sales of a supermarket company which has recorded was recorded in 3 different branches for 3 months data) was provided by my tutor @[Jacob Ajala](@DataAnalyst)
+The dashboard was created using Microsoft excel and the dataset (which is one of the historical sales of a supermarket company which was recorded in 3 different branches for 3 months data) was provided by my tutor @[Jacob Ajala](@DataAnalyst)
 
 Below is what the raw data looks like :
 
@@ -38,7 +38,7 @@ First, let me walk you through the data cleansing based on the business requirem
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694564942932/0d8b2f95-21b6-44eb-a9e0-9946f62870c9.png align="center")
     
-    1. Visualization was done using Pivot tables and Charts. Below is the sheet for my pivot table and finally the visualization sheet which has the charts and slicers
+    1. Visualization was done using Pivot tables and Charts. Below is the sheet for my pivot table and finally the visualization sheet which has the charts and slicers for quick filtering.
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694565937736/b22f07f1-3088-464a-b3f8-f4fcc08ea327.png align="center")
         
