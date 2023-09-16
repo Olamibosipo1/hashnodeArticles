@@ -18,6 +18,8 @@ Below is what the raw data looks like :
 
 First, let me walk you through the data cleansing based on the business requirements
 
+Link to Dataset : [https://drive.google.com/file/d/13sSDlvU-HW\_KXAA8SFft\_dWa0Cd8QiRR/view?usp=sharing](https://drive.google.com/file/d/13sSDlvU-HW_KXAA8SFft_dWa0Cd8QiRR/view?usp=sharing), [https://docs.google.com/spreadsheets/d/1F0zzvTOEtdlS4G-h0qo1Zt3lpamu\_RaU/edit?usp=sharing&ouid=111388547857713195603&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1F0zzvTOEtdlS4G-h0qo1Zt3lpamu_RaU/edit?usp=sharing&ouid=111388547857713195603&rtpof=true&sd=true), [https://drive.google.com/file/d/1X0wtDdRZydRIYG1ktMV0ojAwaStVUDhx/view?usp=sharing](https://drive.google.com/file/d/1X0wtDdRZydRIYG1ktMV0ojAwaStVUDhx/view?usp=sharing)
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694564034491/cd63541e-548f-44e5-9f5f-9ab43cc9e480.png align="center")
 
 1. I expanded the columns to fit the data, converted the data into a table and froze the top row for an easy view
